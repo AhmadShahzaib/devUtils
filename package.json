@@ -1,0 +1,19 @@
+{
+  "name": "npm-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node npm//run.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/cli": "^9.0.0",
+    "mongodb": "^4.8.1",
+    "mongoose": "^6.6.3",
+    "pm2": "^5.2.0",
+    "tunnel-ssh": "^4.1.6"
+  }
+}

@@ -1,0 +1,2729 @@
+[
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662358200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662358200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662360000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662360000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662360600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662360600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662361200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662361200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662363000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662363000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662363600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662363600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662364200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662364200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662366000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662366000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662366600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662366600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662367200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662367200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662369000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662369000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662369600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662369600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662370200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662370200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662372000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662372000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662372600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662372600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662373200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662373200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662375000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662375000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662375600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662375600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662376200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662376200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662378000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662378000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662378600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662378600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662379200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662379200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662381000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662381000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662381600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662381600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662382200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662382200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662384000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662384000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662384600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662384600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662385200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662385200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662387000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662387000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662387600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662387600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662388200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662388200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662390000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662390000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662390600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662390600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662391200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662391200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662393000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662393000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662393600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662393600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662394200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662394200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662396000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662396000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662396600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662396600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662397200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662397200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662399000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662399000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662399600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662399600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662400200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662400200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662402000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662402000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662402600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662402600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662403200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662403200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662405000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662405000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662405600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662405600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662406200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662406200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662408000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662408000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662408600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662408600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662409200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662409200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662411000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662411000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662411600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662411600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662412200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662412200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662414000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662414000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662414600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662414600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662415200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662415200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662417000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662417000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662417600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662417600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662418200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662418200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662420000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662420000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662420600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662420600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662421200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662421200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662423000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662423000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662423600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662423600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662424200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662424200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662426000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662426000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662426600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662426600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662427200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662427200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662429000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662429000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662429600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662429600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662430200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662430200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662432000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662432000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662432600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662432600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662433200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662433200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662435000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662435000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662435600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662435600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662436200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662436200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662438000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662438000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662438600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662438600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662439200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662439200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662441000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662441000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662441600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662441600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662442200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662442200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662444000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662444000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662444600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662444600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662445200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662445200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662447000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662447000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662447600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662447600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662448200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662448200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662450000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662450000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662450600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662450600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662451200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662451200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662453000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662453000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662453600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662453600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662454200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662454200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662456000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662456000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662456600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662456600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662457200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662457200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662459000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662459000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662459600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662459600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662460200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662460200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662462000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662462000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662462600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662462600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662463200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662463200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662465000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662465000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662465600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662465600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662466200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662466200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662468000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662468000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662468600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662468600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662469200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662469200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662471000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662471000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662471600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662471600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662472200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662472200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662474000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662474000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662474600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662474600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662475200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662475200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662477000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662477000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662477600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662477600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662478200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662478200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662480000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662480000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662480600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662480600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662481200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662481200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662483000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662483000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662483600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662483600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662484200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662484200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662486000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662486000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662486600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662486600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662487200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662487200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662489000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662489000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662489600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662489600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662490200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662490200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662492000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662492000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662492600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662492600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662493200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662493200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662495000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662495000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662495600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662495600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662496200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662496200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662498000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662498000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662498600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662498600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662499200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662499200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662501000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662501000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662501600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662501600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662502200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662502200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662504000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662504000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662504600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662504600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662505200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662505200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662507000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662507000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662507600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662507600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662508200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662508200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662510000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662510000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662510600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662510600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662511200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662511200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662513000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662513000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662513600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662513600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662514200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662514200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662516000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662516000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662516600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662516600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662517200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662517200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662519000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662519000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662519600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662519600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662520200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662520200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662522000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662522000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662522600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662522600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662523200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662523200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662525000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662525000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662525600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662525600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662526200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662526200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662528000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662528000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662528600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662528600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662529200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662529200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662531000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662531000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662531600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662531600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662532200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662532200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662534000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662534000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662534600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662534600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662535200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662535200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662537000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662537000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662537600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662537600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662538200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662538200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662540000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662540000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662540600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662540600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662541200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662541200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662543000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662543000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662543600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662543600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662544200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662544200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662546000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662546000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662546600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662546600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662547200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662547200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662549000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662549000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662549600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662549600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662550200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662550200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662552000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662552000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662552600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662552600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662553200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662553200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662555000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662555000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662555600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662555600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662556200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662556200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662558000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662558000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662558600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662558600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662559200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662559200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662561000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662561000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662561600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662561600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662562200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662562200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662564000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662564000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662564600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662564600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662565200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662565200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662567000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662567000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662567600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662567600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662568200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662568200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662570000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662570000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662570600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662570600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662571200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662571200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662573000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662573000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662573600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662573600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662574200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662574200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662576000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662576000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662576600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662576600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662577200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662577200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662579000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662579000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662579600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662579600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662580200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662580200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662582000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662582000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662582600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662582600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662583200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662583200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662585000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662585000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662585600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662585600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662586200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662586200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662588000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662588000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662588600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662588600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662589200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662589200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662591000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662591000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662591600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662591600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662592200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662592200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662594000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662594000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662594600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662594600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662595200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662595200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662597000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662597000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662597600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662597600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662598200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662598200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662600000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662600000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662600600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662600600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662601200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662601200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662603000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662603000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662603600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662603600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662604200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662604200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662606000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662606000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662606600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662606600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662607200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662607200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662609000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662609000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662609600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662609600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662610200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662610200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662612000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662612000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662612600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662612600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662613200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662613200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662615000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662615000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662615600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662615600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662616200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662616200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662618000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662618000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662618600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662618600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662619200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662619200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662621000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662621000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662621600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662621600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662622200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662622200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662624000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662624000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662624600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662624600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662625200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662625200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662627000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662627000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662627600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662627600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662628200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662628200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662630000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662630000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662630600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662630600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662631200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662631200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662633000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662633000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662633600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662633600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662634200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662634200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662636000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662636000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662636600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662636600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662637200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662637200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662639000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662639000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662639600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662639600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662640200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662640200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662642000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662642000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662642600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662642600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662643200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662643200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662645000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662645000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662645600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662645600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662646200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662646200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662648000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662648000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662648600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662648600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662649200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662649200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662651000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662651000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662651600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662651600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662652200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662652200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662654000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662654000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662654600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662654600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662655200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662655200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662657000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662657000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662657600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662657600000
+      }
+    }
+  },
+  {
+    "actionType": "ON_DUTY_NOT_DRIVING",
+    "actionDate": 1662658200000,
+    "statusesData": {
+      "onDuty": {
+        "lastStartedAt": 1662658200000
+      }
+    }
+  },
+  {
+    "actionType": "DRIVING",
+    "actionDate": 1662660000000,
+    "statusesData": {
+      "onDriving": {
+        "lastStartedAt": 1662660000000
+      }
+    }
+  },
+  {
+    "actionType": "SLEEPER_BERTH",
+    "actionDate": 1662660600000,
+    "statusesData": {
+      "onSleeperBerth": {
+        "lastStartedAt": 1662660600000
+      }
+    }
+  }
+]
